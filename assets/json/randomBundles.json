@@ -1,0 +1,425 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Crafts Room", "BundleSets", "#0", "Bundles", "#0" ],
+            "Entries": {
+                "Name": "Spring Crafts",
+                "Items": "250 Sap, 125 Wood, 50 Blue Jazz, 50 Tulip, 15 Egg",
+                "Reward": "2 Golden Egg" 
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Crafts Room", "BundleSets", "#0", "Bundles", "#1" ],
+            "Entries": {
+                "Name": "Summer Crafts",
+                "Items": "5 Rainbow Shell, 250 Wood, 20 Sunflower, 10 Coconut, 20 Poppy",
+                "Reward": "25 Iron Bar" 
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Crafts Room", "BundleSets", "#0", "Bundles", "#2" ],
+            "Entries": {
+                "Name": "Fall Crafts",
+                "Items": "150 Sap, 250 Wood, 50 Pumpkin, 250 Bone Fragment, 125 Bat Wing",
+                "Reward": "5 Magic Rock Candy" 
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Crafts Room", "BundleSets", "#0", "Bundles", "#3" ],
+            "Entries": {
+                "Name": "Winter Crafts",
+                "Items": "20 Aquamarine, 250 Wood, 200 Stone, 20 Marble, 50 Solar Essence",
+                "Reward": "25 Gold Bar" 
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Crafts Room", "Bundles", "#0"],
+            "Entries": {
+                "Name": "Building Crafts",
+                "Items": "99 Wood, 99 Wood, 99 Stone, 50 Hardwood",
+                "Reward": "100 Hardwood Fence"
+              }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Crafts Room", "Bundles", "#1"],
+            "Entries": {
+                "Name": "Seed Crafts",
+                "Items": "50 Maple Seed, 50 Acorn, 50 Pine Cone, 50 Mahogany Seed",
+                "Reward": "100 Tree Fertilizer"
+              }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Crafts Room", "Bundles", "#2"],
+            "Entries": {
+                "Name": "Desert Crafts",
+                "Items": "5 Coconut, 5 Cactus Fruit, 1 Sandfish, 1 Scorpion Carp",
+                "RequiredItems": 4,
+                "Reward": "50 Omni Geode"
+              }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Crafts Room", "Bundles", "#3"],
+            "Entries": {
+                "Name": "First Aid Kit",
+                "Items": "15 Chanterelle, 15 Purple Mushroom, 15 Morel, 15 Red Mushroom",
+                "Reward": "15 Fairy Dust"
+              }
+        },
+
+
+
+
+
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Pantry", "BundleSets", "#0", "Bundles", "#0" ],
+            "Entries": {
+                "Name": "Spring Pantry Items",
+                "Items": "15 Mayonnaise, 200 Coffee Bean, 5 Pickles, 5 Honey, 5 Maple Syrup, 15 Unmilled Rice",
+                "Reward": "5 Quality Sprinkler" 
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Pantry", "BundleSets", "#0", "Bundles", "#1" ],
+            "Entries": {
+                "Name": "Summer Pantry Items",
+                "Items": "5 Tea Leaves, 5 Jelly, 5 Honey, 5 Pine Tar, 5 Oak Resin, 15 Poppy",
+                "Reward": "30 Speed-Gro" 
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Pantry", "BundleSets", "#0", "Bundles", "#2" ],
+            "Entries": {
+                "Name": "Fall Pantry Items",
+                "Items": "250 Sap, 5 Pine Tar, 5 Oak Resin, 5 Maple Syrup, 5 Pickles",
+                "Reward": "50 Fiber Seeds" 
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Pantry", "Bundles", "#0"],
+            "Entries": {
+                "Name": "Quality Crops",
+                "Items": "[5 GQ Parsnip|5 GQ Green Bean|5 GQ Cauliflower|5 GQ Potato|5 GQ Blue Jazz|5 GQ Kale|5 GQ Tulip], [5 GQ Melon|5 GQ Hot Pepper|5 GQ Blueberry|5 GQ Poppy|5 GQ Summer Spangle|5 GQ Sunflower], [5 GQ Pumpkin|5 GQ Eggplant|5 GQ Yam|5 GQ Corn|5 GQ Amaranth|5 GQ Bok Choy]",
+                "Reward": "2 Preserves Jar"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Pantry", "Bundles", "#1"],
+            "Entries": {
+                "Name": "Quality Forageables",
+                "Items": "[50 GQ Wild Horseradish|50 GQ Leek|50 GQ Dandelion|50 GQ Spring Onion|50 GQ Morel], [50 GQ Grape|50 GQ Spice Berry|50 GQ Fiddlehead Fern], [50 GQ Common Mushroom|50 GQ Wild Plum|50 GQ Hazelnut|50 GQ Blackberry|50 GQ Chanterelle]",
+                "Pick": 3,
+                "RequiredItems": 3,
+                "Reward": "2 Tapper"
+              }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Pantry", "Bundles", "#2"],
+            "Entries": {
+                "Name": "Forage Farmer's",
+                "Items": "50 Mixed Seeds, 25 Hardwood, 5 Woodskip, 15 Leek, 15 Sweet Pea, 15 Red Mushroom, 15 Morel, 99 Wood, 99 Stone",
+                "Reward": "10 Warp Totem: Farm"
+              }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Pantry", "Bundles", "#3"],
+            "Entries": {
+                "Name": "Fish Farmer's",
+                "Items": "30 Caviar, 30 Aged Roe, 5 Squid Ink, 45 Roe",
+                "Pick": 4,
+                "RequiredItems": 4,
+                "Reward": "30 Omni Geode"
+              }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Pantry", "Bundles", "#4"],
+            "Entries": {
+                "Name": "Drying Rack",
+                "Items": "10 Crocus, 10 Sunflower, 10 Tulip, 10 Summer Spangle, 10 Fairy Rose, 10 Blue Jazz, 10 Poppy, 10 Corn, 10 Apple, 10 Peach",
+                "Pick": 6,
+                "RequiredItems": 5,
+                "Reward": "2 Quality Sprinkler"
+              }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Pantry", "Bundles", "#5"],
+            "Entries": {
+                "Name": "Master Artisan",
+                "Items": "10 Truffle Oil, 10 Cloth, 10 GQ Goat Cheese, 10 GQ Cheese, 10 Honey, 10 Jelly, 10 Apple, 10 Peach, 10 Pomegranate",
+                "Reward": "2 Keg"
+              }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Pantry", "Bundles", "#6"],
+            "Entries": {
+                "Name": "Master Brewer's",
+                "Items": "10 Mead, 10 Wine, 10 Juice, 10 Pale Ale, 10 Green Tea",
+                "Reward": "2 Keg"
+              }
+        },
+
+
+
+
+
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Fish Tank", "BundleSets", "#0", "Bundles", "#0" ],
+            "Entries": {
+                "Name": "Baked Fish",
+                "Items": "30 Sunfish, 30 Bream, 60 Wheat Flour",
+                "Pick": 3,
+                "RequiredItems": 3,
+                "Reward": "60 Bait" 
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Fish Tank", "BundleSets", "#0", "Bundles", "#1" ],
+            "Entries": {
+                "Name": "Crispy Bass",
+                "Items": "30 Largemouth Bass, 30 Oil, 30 Wheat Flour",
+                "Pick": 3,
+                "RequiredItems": 3,
+                "Reward": "5 Dressed Spinner" 
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Fish Tank", "BundleSets", "#0", "Bundles", "#2" ],
+            "Entries": {
+                "Name": "Eel Two Way",
+                "Items": "15 Eel, 15 Oil, 15 Hot Pepper",
+                "Pick": 3,
+                "RequiredItems": 3,
+                "Reward": "10 Warp Totem: Beach" 
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Fish Tank", "BundleSets", "#0", "Bundles", "#3" ],
+            "Entries": {
+                "Name": "Night Owl's Surprise",
+                "Items": "10 Midnight Carp, 10 Eel, 10 Walleye, 10 Bream",
+                "Reward": "1 Glow Ring" 
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Fish Tank", "Bundles", "#0"],
+            "Entries": {
+                "Name": "Gumbo Pot",
+                "Items": "10 Hot Pepper, 10 Tomato, 10 Lobster, 10 Crab, 10 Mussel, 10 Shrimp, 10 Oyster, 10 Clam",
+                "Pick": 6,
+                "RequiredItems": 5,
+                "Reward": "5 Crab Pot"
+              }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Fish Tank", "Bundles", "#1"],
+            "Entries": {
+                "Items": "5 Pufferfish, 5 Ghostfish, 5 Sandfish, 5 Woodskip",
+                "Reward": "5 Dish O' The Sea"
+              }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Fish Tank", "Bundles", "#2"],
+            "Entries": {
+                "Items": "5 GQ Largemouth Bass, 5 GQ Shad, 5 GQ Tuna, 5 GQ Walleye",
+                "Reward": "5 Dish O' The Sea"
+              }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Fish Tank", "Bundles", "#3"],
+            "Entries": {
+                "Items": "5 Lava Eel, 5 Scorpion Carp, 5 Octopus, 5 Blobfish",
+                "Reward": "5 Dish O' The Sea"
+              }
+        },
+
+
+
+
+
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Boiler Room", "Bundles", "#0" ],
+            "Entries": {
+                "Name": "Master Blacksmith",
+                "Items": "30 Copper Bar, 30 Iron Bar, 30 Gold Bar",
+                "Reward": "5 Furnace" 
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Boiler Room", "Bundles", "#1" ],
+            "Entries": {
+                "Name": "Master Geologist",
+                "Items": "30 Fire Quartz, 30 Frozen Tear, 30 Earth Crystal, 30 Geode",
+                "Reward": "15 Omni Geode" 
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Boiler Room", "Bundles", "#2" ],
+            "Entries": {
+                "Name": "Master Adventurer",
+                "Items": "99 Slime, 50 Bat Wing, 20 Solar Essence, 20 Void Essence, 50 Bone Fragment",
+                "Reward": "5 Roots Platter" 
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Boiler Room", "Bundles", "#3" ],
+            "Entries": {
+                "Name": "Master Treasure Hunter",
+                "Items": "10 Amethyst, 10 Topaz, 10 Emerald, 10 Diamond, 10 Ruby, 10 Aquamarine",
+                "Reward": "5 Miner's Treat" 
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Boiler Room", "Bundles", "#4" ],
+            "Entries": {
+                "Name": "Master Engineer",
+                "Items": "5 Iridium Ore, 10 Battery, 50 Refined Quartz",
+                "Reward": "5 Eggplant Parmesan" 
+            }
+        },
+
+
+
+
+
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Bulletin Board", "Bundles", "#0" ],
+            "Entries": {
+                "Name": "Visiting Granny",
+                "Items": "15 Fairy Rose, 15 Tulip, 15 Diamond, 15 Leek",
+                "Reward": "30 Cookie" 
+            }
+        }, 
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Bulletin Board", "Bundles", "#1" ],
+            "Entries": {
+                "Name": "Caroline's Greenhouse",
+                "Items": "50 Quality Fertilizer, 50 Tree Fertilizer, 100 Fiber, 100 Wood",
+                "Reward": "2 Seed Maker" 
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Bulletin Board", "Bundles", "#2" ],
+            "Entries": {
+                "Name": "Research for Demetrius",
+                "Items": "[15 Cherry|15 Pomegranate|15 Peach|15 Apple|15 Orange|15 Apricot], [5 Common Mushroom|5 Red Mushroom|5 Purple Mushroom|5 Chanterelle|5 Morel], [15 Purple Mushroom|15 Nautilus Shell], [15 Chub|15 Frozen Geode]",
+                "Reward": "10 Strawberry Seeds" 
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Bulletin Board", "Bundles", "#3" ],
+            "Entries": {
+                "Name": "Horse's Friend",
+                "Items": "200 Hay, 15 Apple"
+            }
+        }, 
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Bulletin Board", "Bundles", "#4" ],
+            "Entries": {
+                "Name": "Wizard's Apprentice",
+                "Items": "5 Super Cucumber, 15 Solar Essence, 15 Void Essence, 1 Prismatic Shard",
+                "Reward": "5 Pearl"
+            }
+        }, 
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Bulletin Board", "Bundles", "#5" ],
+            "Entries": {
+                "Name": "Teacher's Pet",
+                "Items": "15 Apple, 1 Ancient Doll, 15 Poppy, 15 Melon",
+                "Reward": "5 Emerald"
+            }
+        }, 
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Bulletin Board", "Bundles", "#6" ],
+            "Entries": {
+                "Name": "Foraging with Linus",
+                "Items": "[50 Salmonberry|50 Blackberry|50 Wild Plum], [500 Sap|15 Leek|15 Wild Horseradish|15 Morel|15 Spring Onion], [15 Winter Root|15 Common Mushroom|15 Fiddlehead Fern]",
+                "Reward": "5 Blueberry Tart"
+            }
+        }, 
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": [ "Bulletin Board", "Bundles", "#7" ],
+            "Entries": {
+                "Name": "Can You Cook?",
+                "Items": "[1 Coleslaw|1 Baked Fish|1 Maki Roll|1 Pancakes], [1 Trout Soup|1 Glazed Yams|1 Pumpkin Pie|1 Pizza], [1 Fried Eel|1 Pale Broth|1 Fried Calamari|1 Chowder], [1 Spicy Eel|1 Rhubarb Pie|1 Ice Cream|1 Fish Stew]",
+                "Reward": "5 Poi"
+            }
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "Pop Rock Henry VI",
+    "Author": "Orchid",
+    "Version": "1.0.0",
+    "Description": "Versioning CP Testing with new assets",
+    "UniqueID": "Orchid.PopRockHenryVI",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Format": "1.28.0",
+    "Changes": [
+        {
+            "Action": "Load",
+            "Target": "Portraits/Harvey",
+            "FromFile": "assets/img/harvey.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Portraits/Abigail",
+            "FromFile": "assets/img/abigail.png"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/json/randomBundles.json"
+        }
+    ]
+}
