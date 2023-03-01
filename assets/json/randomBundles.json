@@ -6,7 +6,7 @@
             "TargetField": [ "Crafts Room", "BundleSets", "#0", "Bundles", "#0" ],
             "Entries": {
                 "Name": "Spring Crafts",
-                "Items": "250 Sap, 125 Wood, 50 Blue Jazz, 50 Tulip, 15 Egg",
+                "Items": "[250 Sap|250 Stone], [125 Wood|100 Spring Seeds], [50 Blue Jazz|50 GQ Blue Jazz], [50 Tulip|50 GQ Tulip], [15 Egg|15 Large Egg|15 GQ Large Egg]",
                 "Reward": "2 Golden Egg" 
             }
         },
@@ -16,7 +16,7 @@
             "TargetField": [ "Crafts Room", "BundleSets", "#0", "Bundles", "#1" ],
             "Entries": {
                 "Name": "Summer Crafts",
-                "Items": "5 Rainbow Shell, 250 Wood, 20 Sunflower, 10 Coconut, 20 Poppy",
+                "Items": "[5 Rainbow Shell|100 Summer Seeds|150 Fiber], [250 Wood|50 Battery Pack|50 Coal], [20 Sunflower|20 GQ Sunflower], [20 Coconut|20 GQ Coconut], [20 Poppy|20 GQ Poppy]",
                 "Reward": "25 Iron Bar" 
             }
         },
@@ -26,7 +26,7 @@
             "TargetField": [ "Crafts Room", "BundleSets", "#0", "Bundles", "#2" ],
             "Entries": {
                 "Name": "Fall Crafts",
-                "Items": "150 Sap, 250 Wood, 50 Pumpkin, 250 Bone Fragment, 125 Bat Wing",
+                "Items": "[150 Sap|100 Fall Seeds|500 Fiber], [250 Wood|25 Maple Syrup|100 Clay], [50 Pumpkin|50 Cloth|50 Battery Pack], [250 Bone Fragment|500 Slime], [125 Bat Wing|125 Void Essence]",
                 "Reward": "5 Magic Rock Candy" 
             }
         },
@@ -36,8 +36,8 @@
             "TargetField": [ "Crafts Room", "BundleSets", "#0", "Bundles", "#3" ],
             "Entries": {
                 "Name": "Winter Crafts",
-                "Items": "20 Aquamarine, 250 Wood, 200 Stone, 20 Marble, 50 Solar Essence",
-                "Reward": "25 Gold Bar" 
+                "Items": "[20 Aquamarine|20 Frozen Tear|20 Diamond], [900 Wood|250 Hardwood], [900 Stone|100 Iron Bar|100 Refined Quartz], [20 Marble|20 Opal|20 Ghost Crystal], [50 Solar Essence|50 Frozen Geode]",
+                "Reward": "5 Iridium Sprinkler" 
             }
         },
         {
@@ -66,8 +66,7 @@
             "TargetField": [ "Crafts Room", "Bundles", "#2"],
             "Entries": {
                 "Name": "Desert Crafts",
-                "Items": "5 Coconut, 5 Cactus Fruit, 1 Sandfish, 1 Scorpion Carp",
-                "RequiredItems": 4,
+                "Items": "15 Coconut, 15 Cactus Fruit, 5 Sandfish, 5 Scorpion Carp, 15 Omni Geode",
                 "Reward": "50 Omni Geode"
               }
         },
@@ -92,7 +91,7 @@
             "TargetField": [ "Pantry", "BundleSets", "#0", "Bundles", "#0" ],
             "Entries": {
                 "Name": "Spring Pantry Items",
-                "Items": "15 Mayonnaise, 200 Coffee Bean, 5 Pickles, 5 Honey, 5 Maple Syrup, 15 Unmilled Rice",
+                "Items": "[15 Mayonnaise|15 Strawberry], [200 Coffee Bean|200 GQ Coffee Bean], [15 Pickles|100 Salmonberry], [15 Honey|15 Catfish], [15 Maple Syrup|50 Garlic], [15 Unmilled Rice|50 Dandelion]",
                 "Reward": "5 Quality Sprinkler" 
             }
         },
@@ -102,7 +101,7 @@
             "TargetField": [ "Pantry", "BundleSets", "#0", "Bundles", "#1" ],
             "Entries": {
                 "Name": "Summer Pantry Items",
-                "Items": "5 Tea Leaves, 5 Jelly, 5 Honey, 5 Pine Tar, 5 Oak Resin, 15 Poppy",
+                "Items": "[5 Tea Leaves|1 Seafoam Pudding], [15 Jelly|15 Fiddlehead Fern], [15 Honey|100 Blackberry], [15 Pine Tar|15 Oak Resin], [25 Starfruit|50 Melon], [15 Poppy|15 Sunflower]",
                 "Reward": "30 Speed-Gro" 
             }
         },
@@ -112,7 +111,7 @@
             "TargetField": [ "Pantry", "BundleSets", "#0", "Bundles", "#2" ],
             "Entries": {
                 "Name": "Fall Pantry Items",
-                "Items": "250 Sap, 5 Pine Tar, 5 Oak Resin, 5 Maple Syrup, 5 Pickles",
+                "Items": "[500 Sap|500 Wood], [15 Pine Tar|15 Oak Resin|], [100 Hay|150 Mixed Seeds], [5 Jack-O-Lantern|1 Golden Pumpkin], [15 Pickles|15 Jelly]",
                 "Reward": "50 Fiber Seeds" 
             }
         },
@@ -155,8 +154,6 @@
             "Entries": {
                 "Name": "Fish Farmer's",
                 "Items": "30 Caviar, 30 Aged Roe, 5 Squid Ink, 45 Roe",
-                "Pick": 4,
-                "RequiredItems": 4,
                 "Reward": "30 Omni Geode"
               }
         },
@@ -202,10 +199,8 @@
             "Target": "Data/RandomBundles",
             "TargetField": [ "Fish Tank", "BundleSets", "#0", "Bundles", "#0" ],
             "Entries": {
-                "Name": "Baked Fish",
-                "Items": "30 Sunfish, 30 Bream, 60 Wheat Flour",
-                "Pick": 3,
-                "RequiredItems": 3,
+                "Name": "Willy's Favorites",
+                "Items": "15 Catfish, 15 Octopus, 15 Sea Cucumber, 15 Sturgeon",
                 "Reward": "60 Bait" 
             }
         },
@@ -214,10 +209,8 @@
             "Target": "Data/RandomBundles",
             "TargetField": [ "Fish Tank", "BundleSets", "#0", "Bundles", "#1" ],
             "Entries": {
-                "Name": "Crispy Bass",
-                "Items": "30 Largemouth Bass, 30 Oil, 30 Wheat Flour",
-                "Pick": 3,
-                "RequiredItems": 3,
+                "Name": "Jodi's Favorites",
+                "Items": "30 Largemouth Bass, 60 Oil, 30 Wheat Flour, 30 Eel",
                 "Reward": "5 Dressed Spinner" 
             }
         },
@@ -226,10 +219,8 @@
             "Target": "Data/RandomBundles",
             "TargetField": [ "Fish Tank", "BundleSets", "#0", "Bundles", "#2" ],
             "Entries": {
-                "Name": "Eel Two Way",
-                "Items": "15 Eel, 15 Oil, 15 Hot Pepper",
-                "Pick": 3,
-                "RequiredItems": 3,
+                "Name": "Abigail's Fish Order",
+                "Items": "15 Eel, 15 Oil, 15 Hot Pepper, 15 Pufferfish",
                 "Reward": "10 Warp Totem: Beach" 
             }
         },
@@ -250,8 +241,6 @@
             "Entries": {
                 "Name": "Gumbo Pot",
                 "Items": "10 Hot Pepper, 10 Tomato, 10 Lobster, 10 Crab, 10 Mussel, 10 Shrimp, 10 Oyster, 10 Clam",
-                "Pick": 6,
-                "RequiredItems": 5,
                 "Reward": "5 Crab Pot"
               }
         },
