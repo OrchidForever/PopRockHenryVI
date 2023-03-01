@@ -1,15 +1,11 @@
 # Known "Features"
 
-## Craft Room
+## Random Bundles
 
-## Pantry
+### Pantry
 
 - New Icon for Forage Farmer's
 
-## Fish Tank
-
-## Boiler Room
-
-## Bulentin Board
+### Bulentin Board
 
 - New Icon for Caroline's Greenhouse
