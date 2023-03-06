@@ -4,12 +4,12 @@
         {
             "Action": "Load",
             "Target": "Portraits/Harvey",
-            "FromFile": "assets/img/harvey.png"
+            "FromFile": "assets/img/Harvey/harvey.png"
         },
         {
             "Action": "Load",
             "Target": "Portraits/Abigail",
-            "FromFile": "assets/img/abigail.png"
+            "FromFile": "assets/img/Abigail/abigail.png"
         },
         {
             "Action": "Include",
