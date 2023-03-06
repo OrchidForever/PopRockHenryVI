@@ -144,8 +144,6 @@
             "Entries": {
                 "Name": "Quality Forageables",
                 "Items": "[50 GQ Wild Horseradish|50 GQ Leek|50 GQ Dandelion|50 GQ Spring Onion|50 GQ Morel], [50 GQ Grape|50 GQ Spice Berry|50 GQ Fiddlehead Fern], [50 GQ Common Mushroom|50 GQ Wild Plum|50 GQ Hazelnut|50 GQ Blackberry|50 GQ Chanterelle]",
-                "Pick": 3,
-                "RequiredItems": 3,
                 "Reward": "2 Tapper"
             },
             "LogName": "Pantry: Quality Forageables"
@@ -179,8 +177,6 @@
             "Entries": {
                 "Name": "Drying Rack",
                 "Items": "10 Crocus, 10 Sunflower, 10 Tulip, 10 Summer Spangle, 10 Fairy Rose, 10 Blue Jazz, 10 Poppy, 10 Corn, 10 Apple, 10 Peach",
-                "Pick": 6,
-                "RequiredItems": 5,
                 "Reward": "2 Quality Sprinkler"
             },
             "LogName": "Pantry: Drying Rack"
