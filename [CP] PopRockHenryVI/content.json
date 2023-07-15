@@ -1,5 +1,11 @@
 {
     "Format": "1.28.0",
+    "CustomLocations": [
+        {
+            "Name": "Custom_Test_Map",
+            "FromMapFile": "assets/map/test_map.tmx"
+        }
+    ],
     "Changes": [
         {
             "Action": "Load",
@@ -9,7 +15,7 @@
         {
             "Action": "Load",
             "Target": "Portraits/Abigail",
-            "FromFile": "assets/img/Abigail/abigail.png"
+            "FromFile": "assets/img/Abigail/green/abigail.png"
         },
         {
             "Action": "Include",

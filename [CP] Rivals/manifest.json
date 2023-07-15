@@ -1,0 +1,11 @@
+{
+    "Name": "Orchid_Rival",
+    "Author": "Orchid",
+    "Version": "1.0.0",
+    "Description": "Rivals for love interests",
+    "UniqueID": "Orchid.Rival",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

@@ -4,12 +4,26 @@
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "Universal_Love": "74",
-                "Universal_Like": "-2",
-                "Universal_Neutral": "194",
-                "Universal_Dislike": "-4",
-                "Universal_Hate": "0",
-                "Robin": "Is for me? Wow, @! I absolutely love it!!/224 426 618 567/Thanks! This is really nice!/631 424 709 569 725 726 330/Um... I taught my children to say thank you, so thank you I guess./16/This is terrible! I'm sorry... I forgot my manners. Thank you./2/Thank you. This might come in handy.//",
+                // Prismatic Shard, Rabbit's Foot, Pearl
+                "Universal_Love": "74 446 797",
+                // Diamond, Golden Pumpkin, Life Elixier, Magic Rock Candy
+                "Universal_Like": "72 373 773 279",
+                // All Artisian Goods, All Cooking, All Flowers, All Foraged Minerals, All Gems, All Vegetables
+                // Fruit Tree Fruits, 724 Maple Syrup, Coffee
+                "Universal_Neutral": "-2 -7 -26 -75 -80 613 634 635 636 637 638 724 395",
+                "Universal_Dislike": "-4 -8 -12 -15 -16 -19 -22 -24 -25 -28 -74 78 169 246 247 305 309 310 311 403 419 423 535 536 537 725 726 749 271",
+                "Universal_Hate": "0 -20 -21 92 110 111 112 142 152 153 157 178 105 168 170 171 172 374 376 378 380 397 420 684 721 766 767 772 203 308 265 909 910",
+                // Love: Spaghetti, Goat Cheese, Bruschetta, Marble, Pancakes, Wine
+                // Like: Peach Sapling, Cheese, Hardwood, Granite, Oak Resin, Pine Tar, Honey, Peach
+                // Dislike: Wild Horseradish, Shrimp Cocktail, Pearl
+                // Hate: Mead, Pale Ale, Beer
+                // Neutral: Wood, Stone
+                "Robin": "$c 0.9#Is for me? @! I absolutely love it!!#You're so sweet @. Thank you for thinking of me!/224 426 618 567 211 348/$c 0.9#Thanks!#Thanks! This is really nice!/340 631 424 709 569 725 726 330 636/Um... I taught my children to say thank you, so thank you I guess./16 733 797/This is terrible!$e#$neutralI'm sorry... I forgot my manners. Thank you./459 303 346/Thank you. This might come in handy./388 390/",
+                // Love: 
+                // Like
+                // Dislike
+                // Hate
+                // Neutral
                 "Demetrius": "You're giving this to me? This is amazing!/207 232 233 400/Thank you! This is a very interesting specimen./-5 -79 422/...What is this?/80 330/This is disgusting./2/That was very thoughtful of you./-4/",
                 "Maru": "Is that...? Oh wow, @! This is spectacular!/72 197 190 215 222 243 336 337 400 787 910/This is a super gift! Thank you!/-260 62 64 66 68 70 334 335 725 726 909/Oh... That's for me? I'll just put it over here.../-4 330 414 410 404 724/Yuck! You thought I would like this?/340 342 2 430 416/Thanks.//",
                 "Sebastian": "I really love this. How did you know?/84 227 236 575 305/Thanks, I like this./267 614 276/...?/-81 30 -80/...I hate this./-5 2 459 195 201 240 330 -26 873/...thanks./-4/",

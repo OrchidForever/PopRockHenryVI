@@ -1,0 +1,84 @@
+{
+    "Format": "1.28.0",
+    "Changes": [
+        // Penny and Sam are now "married"
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Penny": "teen/polite/shy/positive/female/not-datable/Sam/Town/fall 2/Pam 'mother'/Trailer 4 9/Penny",
+                "Sam": "teen/neutral/outgoing/positive/male/not-datable/Penny/Town/summer 17/Vincent 'little_brother' Jodi 'mom' Kent 'dad' Sebastian ''/SamHouse 22 13/Sam"
+            },
+            "When": {
+                "Day": 8,
+                "Year": 2,
+                "Season": "Summer",
+                "Relationship:Sam": "Friendly, Unmet",
+                "Relationship:Penny": "Friendly, Unmet"
+            }
+        },
+        // Sam telling Farmer he is marrying Penny Tomorrow
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Farm",
+            "Entries": {
+                "1518389419113131181825/t 600 2600": "summer_day_ambient/64 15/farmer 64 16 2 Sam 64 18 0/skippable/speak Sam \"Good morning, @!$. #$b#I came by to to let you know I am marrying Penny tomorrow.\"/pause 300\"I just thought you would want to know.\"/end dialogue Sam /pause 300\"Well, I hope to see you tomorrow.\""
+            },
+            "When": {
+                "Day": 7,
+                "Year": 2,
+                "Season": "Summer",
+                "Hearts:Penny": "5, 6, 7, 8",
+                "Hearts:Sam": "0, 1, 2, 3, 4"
+            }
+        },
+        // Penny telling Farmer she is marrying Sam Tomorrow
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Farm",
+            "Entries": {
+                "Penny": "teen/polite/shy/positive/female/not-datable/Sam/Town/fall 2/Pam 'mother'/Trailer 4 9/Penny",
+                "Sam": "teen/neutral/outgoing/positive/male/not-datable/Penny/Town/summer 17/Vincent 'little_brother' Jodi 'mom' Kent 'dad' Sebastian ''/SamHouse 22 13/Sam"
+            },
+            "When": {
+                "Day": 7,
+                "Year": 2,
+                "Season": "Summer",
+                "Hearts:Sam": "5, 6, 7, 8",
+                "Hearts:Penny": "0, 1, 2, 3, 4"
+            }
+        },
+        // Both telling Farmer they are marrying Tomorrow
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Farm",
+            "Entries": {
+                "Penny": "teen/polite/shy/positive/female/not-datable/Sam/Town/fall 2/Pam 'mother'/Trailer 4 9/Penny",
+                "Sam": "teen/neutral/outgoing/positive/male/not-datable/Penny/Town/summer 17/Vincent 'little_brother' Jodi 'mom' Kent 'dad' Sebastian ''/SamHouse 22 13/Sam"
+            },
+            "When": {
+                "Day": 7,
+                "Year": 2,
+                "Season": "Summer",
+                "Hearts:Sam": "5, 6, 7, 8",
+                "Hearts:Penny": "5, 6, 7, 8"
+            }
+        },
+        // Both telling Farmer they are marrying Tomorrow and they are invited
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Farm",
+            "Entries": {
+                "Penny": "teen/polite/shy/positive/female/not-datable/Sam/Town/fall 2/Pam 'mother'/Trailer 4 9/Penny",
+                "Sam": "teen/neutral/outgoing/positive/male/not-datable/Penny/Town/summer 17/Vincent 'little_brother' Jodi 'mom' Kent 'dad' Sebastian ''/SamHouse 22 13/Sam"
+            },
+            "When": {
+                "Day": 7,
+                "Year": 2,
+                "Season": "Summer",
+                "Hearts:Sam": "0, 1, 2, 3, 4",
+                "Hearts:Penny": "0, 1, 2, 3, 4"
+            }
+        }
+    ]
+}
