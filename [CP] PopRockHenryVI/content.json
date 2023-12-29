@@ -2,8 +2,8 @@
     "Format": "1.28.0",
     "CustomLocations": [
         {
-            "Name": "Custom_Test_Map",
-            "FromMapFile": "assets/map/test_map.tmx"
+            "Name": "Custom_Lou_House",
+            "FromMapFile": "assets/map/LouDurandHouse.tmx"
         }
     ],
     "Changes": [
