@@ -18,6 +18,11 @@
             "FromFile": "assets/img/Abigail/green/abigail.png"
         },
         {
+            "Action": "Load",
+            "Target": "Characters/Abigail",
+            "FromFile": "assets/img/Abigail/green/abigail_sprite.png"
+        },
+        {
             "Action": "Include",
             "FromFile": "assets/json/randomBundles.json"
         },
